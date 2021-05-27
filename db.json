@@ -1,0 +1,58 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "website": "anastasia.net",
+      "username": "Antonette",
+      "password": "asdfghjkl"
+    },
+    {
+      "id": 2,
+      "username": "Karianne",
+      "website": "kale.biz",
+      "password": "asdfghjkl"
+    },
+    {
+      "id": 3,
+      "username": "Mrs. Dennis Schulist",
+      "website": "ola.org",
+      "password": "asdfghjkl"
+    },
+    {
+      "id": 4,
+      "username": "Maxime_Nienow",
+      "website": "jacynthe.com",
+      "password": "asdfghjkl"
+    },
+    {
+      "id": 5,
+      "username": "Delphine",
+      "website": "conrad.com",
+      "password": "asdfghjkl"
+    },
+    {
+      "id": 6,
+      "username": "Moriah.Stanton",
+      "website": "ambrose.net",
+      "password": "asdfghjkl"
+    },
+    {
+      "id": 7,
+      "username": "lota",
+      "website": "xyz.com",
+      "password": "abcdf"
+    },
+    {
+      "username": "kolmilota12@gmail.com",
+      "password": "asdfg12345",
+      "website": "conrad.com",
+      "id": 8
+    },
+    {
+      "username": "kolmilota12@gmail.com",
+      "password": "asdfg12345",
+      "website": "xyz",
+      "id": 9
+    }
+  ]
+}
